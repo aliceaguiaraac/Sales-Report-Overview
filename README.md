@@ -26,9 +26,4 @@ You’ll observe that the sales of the jaguar manufacturer is increasing every y
 <p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMGFkMjVjNTQtYTk0My00ODQxLTlhZTktNDYxY2M1YjFiY2I4IiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Sales Report Overview</a></p>
 
 
-
-
-
-
-The dataset used was made available by Data Science Academy.</br>
-https://www.datascienceacademy.com.br/
+The report was created using a fictitious dataset
