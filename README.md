@@ -1,4 +1,4 @@
-# Sales-Report-Overview
+# Sales Report Overview
 
 
 I used a dataset of sales data from a luxury car reseller based in São Paulo, Brazil.The company began its operation in Brazil in 2016. The CEO of the company needs a Dashboard that represents sales data in the period 2016 to 2019.
