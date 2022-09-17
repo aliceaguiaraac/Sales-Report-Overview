@@ -25,4 +25,4 @@ You’ll observe that the sales of the jaguar manufacturer is increasing every y
 
 
 
-The report was created using a fictitious dataset
+This report was created using a fictitious dataset made available by Data Science Academy
